@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+With a PhD in Physics and a background in AI material research, I retrained as a Data Scientist to leverage data's role in innovation.
 <!--
 **rhage183/rhage183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
