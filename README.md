@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-With a PhD in Physics and a background in AI material research, I retrained as a Data Scientist to properly leverage data's role in innovation.
+With a PhD in physics and several years of experience in academia, I specialized in research focused on developing new materials for AI applications. Recognizing the growing importance of data in driving innovation, I decided to switch careers and immerse myself in the world of AI. To make this transition, I completed an intensive retraining program and am now a qualified data scientist.
+
+I am now looking to contribute on data science projects to keep active. Let me know if I can help.
 
 🔭 I'm currently working on a Reinforcement Learning project ([from-a-to-b-with-rl](https://github.com/rhage183/from-a-to-b-with-rl))
 
