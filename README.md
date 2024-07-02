@@ -1,5 +1,8 @@
 ## Hi there 👋
-With a PhD in Physics and a background in AI material research, I retrained as a Data Scientist to leverage data's role in innovation.
+With a PhD in Physics and a background in AI material research, I retrained as a Data Scientist to properly leverage data's role in innovation.
+
+I'm currently working on a Reinforcement Learning project ([from-a-to-b-with-rl](https://github.com/rhage183/from-a-to-b-with-rl))
+
 <!--
 **rhage183/rhage183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
