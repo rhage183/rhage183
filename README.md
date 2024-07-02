@@ -7,9 +7,11 @@ With a PhD in Physics and a background in AI material research, I retrained as a
 
 🌱 I’m currently learning Tensorflow, ScikitLearn and Pytorch
 
+👯 I am looking to lend a hand on data science projects that you might need help with
+
+If you do, don't hesistate:
+
 📫 You can reach me at: ralphhage1@gmail.com
-
-
 <!--
 **rhage183/rhage183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
