@@ -13,10 +13,6 @@ If you do, don't hesitate:
 📫 You can reach me at: ralphhage1@gmail.com
 
 Or connect with me on: 
-[![LinkedIn](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg)](https://www.linkedin.com/in/ralph-el-hage-bb0301121/) 
-[![Kaggle](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kaggle.svg)](https://www.kaggle.com/ralphhage)
-
-<!-- Adjusted sizes for LinkedIn and Kaggle logos -->
 <a href="https://www.linkedin.com/in/ralph-el-hage-bb0301121/" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="20" height="20"></a>
 <a href="https://www.kaggle.com/ralphhage" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kaggle.svg" alt="Kaggle" width="20" height="20"></a>
 
