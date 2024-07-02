@@ -12,6 +12,10 @@ With a PhD in Physics and a background in AI material research, I retrained as a
 If you do, don't hesistate:
 
 📫 You can reach me at: ralphhage1@gmail.com
+
+Or connect with me on
+
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif 'High Five')
 <!--
 **rhage183/rhage183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
