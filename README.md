@@ -13,9 +13,7 @@ If you do, don't hesistate:
 
 📫 You can reach me at: ralphhage1@gmail.com
 
-[![LinkedIn](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg)](https://www.linkedin.com/in/ralph-el-hage-bb0301121/)
-
-[![Kaggle](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kaggle.svg)]([https://www.kaggle.com/ralph-el-hage](https://www.kaggle.com/ralphhage))
+Or connect with me on: [![LinkedIn](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg)](https://www.linkedin.com/in/ralph-el-hage-bb0301121/) [![Kaggle](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kaggle.svg)]([https://www.kaggle.com/ralph-el-hage](https://www.kaggle.com/ralphhage))
 
 <!--
 **rhage183/rhage183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
